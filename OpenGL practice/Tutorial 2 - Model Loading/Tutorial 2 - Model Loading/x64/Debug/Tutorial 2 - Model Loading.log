@@ -1,0 +1,16 @@
+﻿  Camera.cpp
+  Light.cpp
+  Main.cpp
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 2 - Model Loading\Tutorial 2 - Model Loading\Main.cpp(149,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 2 - Model Loading\Tutorial 2 - Model Loading\Main.cpp(254,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 2 - Model Loading\Tutorial 2 - Model Loading\Main.cpp(254,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 2 - Model Loading\Tutorial 2 - Model Loading\Main.cpp(265,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Mesh.cpp
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 2 - Model Loading\Tutorial 2 - Model Loading\Mesh.cpp(33,65): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Model.cpp
+  Shader.cpp
+  Generating Code...
+  glad.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\Opemipo\Documents\Projects\GL\include\glad\glad.h(32): message : see previous definition of 'APIENTRY'
+  Tutorial 2 - Model Loading.vcxproj -> C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 2 - Model Loading\x64\Debug\Tutorial 2 - Model Loading.exe

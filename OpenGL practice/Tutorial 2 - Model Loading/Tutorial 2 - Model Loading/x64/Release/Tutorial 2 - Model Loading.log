@@ -1,0 +1,27 @@
+﻿  Main.cpp
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 2 - Model Loading\Tutorial 2 - Model Loading\Main.cpp(149,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 2 - Model Loading\Tutorial 2 - Model Loading\Main.cpp(254,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 2 - Model Loading\Tutorial 2 - Model Loading\Main.cpp(254,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 2 - Model Loading\Tutorial 2 - Model Loading\Main.cpp(265,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  3 of 711 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+glfw3.lib(context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(context.obj)' or at 'C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 2 - Model Loading\x64\Release\glfw.pdb'; linking object as if no debug info
+glfw3.lib(init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(init.obj)' or at 'C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 2 - Model Loading\x64\Release\glfw.pdb'; linking object as if no debug info
+glfw3.lib(input.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(input.obj)' or at 'C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 2 - Model Loading\x64\Release\glfw.pdb'; linking object as if no debug info
+glfw3.lib(monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(monitor.obj)' or at 'C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 2 - Model Loading\x64\Release\glfw.pdb'; linking object as if no debug info
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(vulkan.obj)' or at 'C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 2 - Model Loading\x64\Release\glfw.pdb'; linking object as if no debug info
+glfw3.lib(window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(window.obj)' or at 'C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 2 - Model Loading\x64\Release\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_init.obj)' or at 'C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 2 - Model Loading\x64\Release\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_joystick.obj)' or at 'C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 2 - Model Loading\x64\Release\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_monitor.obj)' or at 'C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 2 - Model Loading\x64\Release\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_time.obj)' or at 'C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 2 - Model Loading\x64\Release\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_thread.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_thread.obj)' or at 'C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 2 - Model Loading\x64\Release\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_window.obj)' or at 'C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 2 - Model Loading\x64\Release\glfw.pdb'; linking object as if no debug info
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(wgl_context.obj)' or at 'C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 2 - Model Loading\x64\Release\glfw.pdb'; linking object as if no debug info
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(egl_context.obj)' or at 'C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 2 - Model Loading\x64\Release\glfw.pdb'; linking object as if no debug info
+glfw3.lib(osmesa_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(osmesa_context.obj)' or at 'C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 2 - Model Loading\x64\Release\glfw.pdb'; linking object as if no debug info
+  Tutorial 2 - Model Loading.vcxproj -> C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 2 - Model Loading\x64\Release\Tutorial 2 - Model Loading.exe
