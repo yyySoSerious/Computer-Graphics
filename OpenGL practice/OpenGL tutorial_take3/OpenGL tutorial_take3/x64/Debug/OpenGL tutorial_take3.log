@@ -1,0 +1,11 @@
+﻿  Main.cpp
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\OpenGL tutorial_take3\OpenGL tutorial_take3\Main.cpp(267,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\OpenGL tutorial_take3\OpenGL tutorial_take3\Main.cpp(284,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\OpenGL tutorial_take3\OpenGL tutorial_take3\Main.cpp(495,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\OpenGL tutorial_take3\OpenGL tutorial_take3\Main.cpp(496,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\OpenGL tutorial_take3\OpenGL tutorial_take3\Main.cpp(498,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\OpenGL tutorial_take3\OpenGL tutorial_take3\Main.cpp(499,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\OpenGL tutorial_take3\OpenGL tutorial_take3\Main.cpp(500,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\OpenGL tutorial_take3\OpenGL tutorial_take3\Main.cpp(501,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\OpenGL tutorial_take3\OpenGL tutorial_take3\Main.cpp(514,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  OpenGL tutorial_take3.vcxproj -> C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\OpenGL tutorial_take3\x64\Debug\OpenGL tutorial_take3.exe
