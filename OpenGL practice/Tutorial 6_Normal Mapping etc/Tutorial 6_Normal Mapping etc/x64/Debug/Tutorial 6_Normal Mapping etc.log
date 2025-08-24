@@ -1,0 +1,27 @@
+﻿  Main.cpp
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 6_Normal Mapping etc\Tutorial 6_Normal Mapping etc\Main.cpp(317,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 6_Normal Mapping etc\Tutorial 6_Normal Mapping etc\Main.cpp(361,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 6_Normal Mapping etc\Tutorial 6_Normal Mapping etc\Main.cpp(413,33): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 6_Normal Mapping etc\Tutorial 6_Normal Mapping etc\Main.cpp(509,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 6_Normal Mapping etc\Tutorial 6_Normal Mapping etc\Main.cpp(509,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 6_Normal Mapping etc\Tutorial 6_Normal Mapping etc\Main.cpp(520,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 6_Normal Mapping etc\Tutorial 6_Normal Mapping etc\Main.cpp(666,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 6_Normal Mapping etc\Tutorial 6_Normal Mapping etc\Main.cpp(766,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 6_Normal Mapping etc\Tutorial 6_Normal Mapping etc\Main.cpp(869,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 6_Normal Mapping etc\Tutorial 6_Normal Mapping etc\Main.cpp(887,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 6_Normal Mapping etc\Tutorial 6_Normal Mapping etc\Main.cpp(948,40): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 6_Normal Mapping etc\Tutorial 6_Normal Mapping etc\Main.cpp(949,43): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 6_Normal Mapping etc\Tutorial 6_Normal Mapping etc\Main.cpp(1033,67): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 6_Normal Mapping etc\Tutorial 6_Normal Mapping etc\Main.cpp(1034,77): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 6_Normal Mapping etc\Tutorial 6_Normal Mapping etc\Main.cpp(1086,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 6_Normal Mapping etc\Tutorial 6_Normal Mapping etc\Main.cpp(1102,85): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 6_Normal Mapping etc\Tutorial 6_Normal Mapping etc\Main.cpp(1246,64): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 6_Normal Mapping etc\Tutorial 6_Normal Mapping etc\Main.cpp(1247,74): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 6_Normal Mapping etc\Tutorial 6_Normal Mapping etc\Main.cpp(1292,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 6_Normal Mapping etc\Tutorial 6_Normal Mapping etc\Main.cpp(1312,48): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 6_Normal Mapping etc\Tutorial 6_Normal Mapping etc\Main.cpp(1404,62): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 6_Normal Mapping etc\Tutorial 6_Normal Mapping etc\Main.cpp(1578,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 6_Normal Mapping etc\Tutorial 6_Normal Mapping etc\Main.cpp(1579,71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 6_Normal Mapping etc\Tutorial 6_Normal Mapping etc\Main.cpp(1610,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 6_Normal Mapping etc\Tutorial 6_Normal Mapping etc\Main.cpp(2392,29): warning C4244: '=': conversion from 'long double' to 'float', possible loss of data
+  Tutorial 6_Normal Mapping etc.vcxproj -> C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 6_Normal Mapping etc\x64\Debug\Tutorial 6_Normal Mapping etc.exe

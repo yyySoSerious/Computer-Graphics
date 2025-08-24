@@ -1,0 +1,7 @@
+﻿  Main.cpp
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 3 - Advanced OpenGL\Tutorial 3 - Advanced OpenGL\Main.cpp(269,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 3 - Advanced OpenGL\Tutorial 3 - Advanced OpenGL\Main.cpp(527,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 3 - Advanced OpenGL\Tutorial 3 - Advanced OpenGL\Main.cpp(527,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 3 - Advanced OpenGL\Tutorial 3 - Advanced OpenGL\Main.cpp(538,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 3 - Advanced OpenGL\Tutorial 3 - Advanced OpenGL\Main.cpp(466): warning C4715: 'cubeMapFromfile': not all control paths return a value
+  Tutorial 3 - Advanced OpenGL.vcxproj -> C:\Users\Opemipo\Documents\Projects\Tutorials\OpenGL practice\Tutorial 3 - Advanced OpenGL\x64\Debug\Tutorial 3 - Advanced OpenGL.exe
