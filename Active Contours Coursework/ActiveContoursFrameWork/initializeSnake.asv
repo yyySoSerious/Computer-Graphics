@@ -1,0 +1,32 @@
+function [x, y] = initializeSnake(I)
+height = size(I, 1);
+width = size(I, 2);
+
+% Show figure
+imshow(I);colormap
+
+% Get initial points
+[x, y] = getpts();
+numPts = size(x, 1);
+angle = linspace(0,2*pi,numPts + 1);
+p = [x.' x(1); 
+      y.' y(1)];
+pp = spline(angle, p);
+yy = ppval(pp, linspace(0,2*pi,101));
+%temp = yy + 0;
+% Interpolate
+
+% Clamp points to be inside of image
+yy(1, yy(1, :) > width) = width;
+yy(2, yy(2, :) > height) = height;
+yy(1, yy(1, :) < 0) = 0;
+yy(2, yy(2, :) < 0) = 0;
+% Clamp points to be inside of image
+p(1, p(1, :) > width) = width;
+p(2, p(2, :) > height) = height;
+p(1, p(1, :) < 0) = 0;
+p(2, p(2, :) < 0) = 0;
+hold on;
+plot(yy(1,:),yy(2,:),'-b',p(1, :),p(2,:),'or')
+end
+
